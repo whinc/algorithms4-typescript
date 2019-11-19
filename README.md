@@ -1,6 +1,6 @@
 # typescript-algorithms
 
-javascript-algorithms 项目的 TypeScript 实现。
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 项目的 TypeScript 实现。
 
 算法在线演练：
 
