@@ -1,5 +1,9 @@
 # algorithms4-typescript
 
+本项目搜集《算法（第四版）》书中出现的算法，并使用 typescript 实现。
+
+[![](https://img9.doubanio.com/view/subject/s/public/s28322244.jpg)](https://book.douban.com/subject/19952400/)
+
 >本项目使用 deno 运行，请先参考 [deno_install](https://github.com/denoland/deno_install) 进行安装
 
 ## 运行 & 测试
