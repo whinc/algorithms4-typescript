@@ -26,5 +26,7 @@ export class Stack<Item> implements IStack<Item> {
     }
   }
 
-
+  toString () {
+    return String(this.items)
+  }
 }

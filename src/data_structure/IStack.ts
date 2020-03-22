@@ -3,4 +3,5 @@ export interface IStack<Item> extends Iterable<Item>{
   pop(): Item | undefined
   isEmpty(): boolean
   size(): number
+  toString(): string
 }
